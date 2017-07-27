@@ -26,4 +26,4 @@ options: {
 ```
 
 ## Screenshots
-![high-low](https://raw.githubusercontent.com/hority/chartjs-plugin-highlow/images/high-low.png)
+![high-low](https://raw.githubusercontent.com/hority/chartjs-plugin-highlow/master/images/high-low.png)
