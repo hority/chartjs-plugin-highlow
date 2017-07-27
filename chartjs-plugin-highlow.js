@@ -25,7 +25,7 @@
             }
         },
 
-        beforeDatasetDraw: function (chart, args) {
+        afterDraw: function (chart) {
             var highlow = chart.highlow;
             if (!highlow) {
                 return;
